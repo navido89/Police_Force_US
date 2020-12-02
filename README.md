@@ -2,7 +2,7 @@
 
 In this project we examine the factors that play into the horrible event of a fatal shooting by the police in the United States of America.
 Which ones carry more weight that lead to fatal shootings and are perhaps predictive in nature? Are they race? State location? Mental Illness? 
-Based on our findings from the dataset of the available variables, we are looking to predict the deceased’s race or mental illness status.
+Based on our findings from the dataset of the available variables, we looked to predict the deceased’s race or mental illness status.
 
 ## To run the jupyter notebook you would need the following libraries (or at least the most up to date versions):
 
