@@ -1,8 +1,10 @@
 # Police_Force_US
 
-In this project we examine the factors that play into the horrible event of a fatal shooting by the police in the United States of America.
-Which ones carry more weight that lead to fatal shootings and are perhaps predictive in nature? Are they race? State location? Mental Illness? 
-Based on our findings from the dataset of the available variables, we looked to predict the deceased’s race or mental illness status.
++ The goal of this project was to examine the factors that play into the horrible event of a fatal shooting by the police in the US.
+
++ A dataset from the Washington Post was used, which had over 5700 data points. Cleaned the data by using pandas. As far as feature engineering, 9 out of the total 17 variables type had to be transformed into different types.
+
++ In relation to predicting the status of mental illness, I worked with sklearn. Implemented a Logistic Regression, SVC, SGD, Decision Tree and Random Forest. Used RandomizedSearchCV to fine tune the final model (Random Forest) and improved the accuracy score by 7%.
 
 ## To run the jupyter notebook you would need the following libraries (or at least the most up to date versions):
 
