@@ -23,34 +23,47 @@
 [(Back to top)](#table-of-contents)
 <br>
 The purpose of this project is to examine the factors that play into the horrible event of a fatal shooting by the police in the US. Which ones carry more weight that lead to fatal shootings and are perhaps predictive in nature? Are they race? State location? Mental Illness? Based on our findings from the dataset of the available variables, we are looking to predict the deceased’s race or mental illness status.
+<br>
+<p align="center">
+<img src="images/shootings_by_year.png" style>
+</p>
 
+## Methods Used
+[(Back to top)](#table-of-contents)
++ Data Cleaning
++ Exploratory Data Analysis
++ Data Visualization
++ Machine Learning
+
+## Technologies:
+[(Back to top)](#table-of-contents)
++ Pandas 
++ NumPy 
++ re
++ Seaborn
++ Matplotlib
++ Copy
++ Geopandas
++ Folium
++ Geopy
++ Nominatim
++ Template
++ MacroElement
++ PrettyTable
++ Sklearn - preprocessing
++ Sklearn.linear_model - LogisticRegression
++ Sklearn.preprocessing - StandardScaler
++ Sklearn.metrics - accuracy_score
++ Sklearn.svm - SVC
++ Sklearn.tree - DecisionTreeClassifier
++ Sklearn.ensemble - RandomForestClassifier
++ Sklearn.model_selection - cross_val_score
++ Sklearn.model_selection - RandomizedSearchCV
+
+## Project Description:
+[(Back to top)](#table-of-contents)
 
 + A dataset from the Washington Post was used, which had over 5700 data points. Cleaned the data by using pandas. As far as feature engineering, 9 out of the total 17 variables type had to be transformed into different types.
 
 + In relation to predicting the status of mental illness, I worked with sklearn. Implemented a Logistic Regression, SVC, SGD, Decision Tree and Random Forest. Used RandomizedSearchCV to fine tune the final model (Random Forest) and improved the accuracy score by 7%.
 
-## To run the jupyter notebook you would need the following libraries (or at least the most up to date versions):
-
-+ import pandas as pd
-+ import numpy as np
-+ import re
-+ import seaborn as sns
-+ import matplotlib
-+ import matplotlib.pyplot as plt
-+ import copy
-+ import geopandas
-+ import folium
-+ import geopy
-+ from geopy.geocoders import Nominatim
-+ from branca.element import Template, MacroElement
-+ from matplotlib import pyplot
-+ from sklearn import preprocessing
-+ from sklearn.linear_model import LogisticRegression
-+ from sklearn.preprocessing import StandardScaler
-+ from sklearn.metrics import accuracy_score
-+ from sklearn.svm import SVC
-+ from sklearn.tree import DecisionTreeClassifier
-+ from sklearn.ensemble import RandomForestClassifier
-+ from prettytable import PrettyTable
-+ from sklearn.model_selection import cross_val_score
-+ from sklearn.model_selection import RandomizedSearchCV
