@@ -70,12 +70,12 @@ The purpose of this project is to examine the factors that play into the horribl
 
 ## Project Results:
 [(Back to top)](#table-of-contents)
-+ With race being a big question going into this project, seeing the number of victims based on race seemed to be perfectly logical. Here we saw that within all of the dataset White was killed the most and then black was almost half of the white percentage.
++ With race being a big question going into this project, seeing the number of victims based on race seemed to be perfectly logical. Here we see that within all of the dataset White was killed the most and then black was almost half of the white percentage.
 <p align="center">
 <img src="images/big_observation.png" style>
 </p>
 
-+ Following now in the same line of questioning, we took a look at the physical location by state with respect to the races that were shot in those states:
++ Following now in the same line of questioning, we take a look at the physical location by state with respect to the races that were shot in those states:
 <p align="center">
 <img src="images/shooting_race_location.png" style>
 </p>
