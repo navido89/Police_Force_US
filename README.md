@@ -121,11 +121,11 @@ We picked the top 2 performing models from above and conducted a cross validatio
 <img src="images/signs_of_mental_illness2.png" style>
 </p>
 Clearly, we could see that our performing models were overfitting. We took the better performing model and started fine tuning it. The Random Forest performed better in comparison to the Decision Tree when cross validated. Next step is to tune the model. We use RandomizedSearchCV and tune the following parameters:
-+ “bootstrap”: [True,False],
-+ “max_depth”: [int(x) for x in np.linspace(start = 10, stop = 110, num =11)],
-+ “max_features”: [“auto”,”sqrt”],
-+ “min_samples_split”: [2,5,10],
-+ “min_samples_leaf”: [1,2,4],
-+ “n_estimators”: [int(x) for x in np.linspace(start = 200, stop = 2000, num =10)]
+  - bootstrap: [True,False],
+  - max_depth: [int(x) for x in np.linspace(start = 10, stop = 110, num =11)],
+  - max_features: [“auto”,”sqrt”],
+  - min_samples_split: [2,5,10],
+  - min_samples_leaf: [1,2,4],
+  - n_estimators: [int(x) for x in np.linspace(start = 200, stop = 2000, num =10)]
 Our model improved from 0.724 to 0.772. Next we implement our model to the test set and we get an accuracy score of 0.771. 0.771 is the percentage of correctly predicted labels. 
 
