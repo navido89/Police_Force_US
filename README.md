@@ -1,3 +1,5 @@
+<img src="images/police.jpg">
+
 # Police_Force_US
 
 + The goal of this project was to examine the factors that play into the horrible event of a fatal shooting by the police in the US.
