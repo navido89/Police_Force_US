@@ -132,3 +132,4 @@ Clearly, we could see that our performing models were overfitting. We took the b
 Our model improved from 0.724 to 0.772. Next we implement our model to the test set and we get an accuracy score of 0.771, which is the percentage of correctly predicted labels. 
 
 + In regard to predicting the race, we concluded that we would need to gather further data in order to create an acceptable model to predict the race. See for more detail <a href="https://towardsdatascience.com/an-examination-of-fatal-force-by-police-in-the-us-db897d97085c" target="_blank">here</a> (Section: Modeling (Race) — Summary)
++ Click <a href="https://towardsdatascience.com/an-examination-of-fatal-force-by-police-in-the-us-db897d97085c" target="_blank">here</a> to read final conclusion. Check "Conclusion" section. 
