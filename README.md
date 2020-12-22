@@ -134,5 +134,8 @@ Our model improved from 0.724 to 0.772. Next we implement our model to the test 
 + In regard to predicting the race, we concluded that we would need to gather further data in order to create an acceptable model to predict the race. For more detail <a href="https://towardsdatascience.com/an-examination-of-fatal-force-by-police-in-the-us-db897d97085c#86b5" target="_blank"> click here.</a> 
 + <a href="https://towardsdatascience.com/an-examination-of-fatal-force-by-police-in-the-us-db897d97085c#eba2" target="_blank"> Click here</a> to read final conclusion. 
 
-
-[go](https://towardsdatascience.com/an-examination-of-fatal-force-by-police-in-the-us-db897d97085c#eba2 target="_blank")
+## Installation:
+[(Back to top)](#table-of-contents)
++ Clone this repo <a href="https://docs.github.com/en/free-pro-team@latest/github/creating-cloning-and-archiving-repositories/cloning-a-repository" target="_blank">(for help see this tutorial).</a>
++ Raw Data is being kept in this repo. <a href="https://github.com/navido89/Time-Series-Analysis-ARIMA-Model-Covid19-Predictions/blob/master/owid-covid-data.csv" target="_blank">Click here for raw data.</a>
++ Data processing/transformation script is being kept in this repo. <a href="https://github.com/navido89/Time-Series-Analysis-ARIMA-Model-Covid19-Predictions/blob/master/Predicting%20number%20of%20Covid19%20deaths%20using%20Time%20Series%20Analysis%20(ARIMA%20MODEL)%C2%B6.ipynb" target="_blank">Click here for notebook.</a>
