@@ -81,7 +81,7 @@ The purpose of this project is to examine the factors that play into the horribl
 </p>
 We saw that the majority of victims that are Hispanic have been shot by the police in the following States: Texas, New Mexico and California. This becomes evident when we pay attention to the purple dots. When looking at the dots with the pink colors. We can see that most of those are more centrally located in the country. We could possibly conclude that most of the Native Americans are in most danger in the central part of the country. As we can see with no surprise now, the majority of the victims are white. The green dots are spread all over the country. What is really interesting to point out is the majority of the yellow dots are on the East Coast. We see most of the dots on the right side of the country rather than the left side. This could be an indicator that black people are more in danger on the east coast when they interact with the police. We can definitely see fewer yellow markers on the west coast. 
 <br>
-- Next, we wanted to see if shootings might have some kind of relation based on state.
++ Next, we wanted to see if shootings might have some kind of relation based on state.
 <p align="center">
 <img src="images/shooting_by_state.png" style>
 </p>
@@ -135,7 +135,7 @@ Clearly, we could see that our performing models were overfitting. We took the b
 
 Our model improved from 0.724 to 0.772. Next we implement our model to the test set and we get an accuracy score of 0.771, which is the percentage of correctly predicted labels. 
 
-+ In regard to predicting the race, we concluded that we would need to gather further data in order to create an acceptable model to predict the race. For more detail <a href="https://towardsdatascience.com/an-examination-of-fatal-force-by-police-in-the-us-db897d97085c#86b5" target="_blank"> click here.</a> 
++ In regard to predicting the race, we concluded that we would need to gather further data in order to create an acceptable model to predict the race. For more details <a href="https://towardsdatascience.com/an-examination-of-fatal-force-by-police-in-the-us-db897d97085c#86b5" target="_blank"> click here.</a> 
 + <a href="https://towardsdatascience.com/an-examination-of-fatal-force-by-police-in-the-us-db897d97085c#eba2" target="_blank"> Click here</a> to read final conclusion. 
 
 ## Installation:
