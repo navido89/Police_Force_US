@@ -106,3 +106,19 @@ Surprisingly, our new top three results Alaska, New Mexico, and Oklahoma are rel
 <img src="images/box_plot.png" style>
 </p>
 
++ In order to create a model to predict signs of Mental Illness, we used the following ML algorithms:
+   + Logistic Regression
+   + SVC (Support Vector Classification)
+   + SGD (Stochastic Gradient Descent)
+   + Decision Tree
+   + Random Forest
+We train our model and get the following accuracy scores.
+<p align="center">
+<img src="images/signs_of_mental_illness1.png" style>
+</p>
+We picked the top 2 performing models from above and conducted a cross validation on them. Once we conducted the cross validation with a k-fold of 10 and scoring value of ‘accuracy’, we got the following results:
+<p align="center">
+<img src="images/signs_of_mental_illness1.png" style>
+</p>
+
+
