@@ -93,7 +93,7 @@ Surprisingly, our new top three results Alaska, New Mexico, and Oklahoma are rel
 <p align="center">
 <img src="images/heat_map.png" style>
 </p>
-Here, we can see that being in the mid-southwest around New Mexico and Oklahoma are not great places per capita for police shootings. Alaska with its size still seems a possible outlier here.
+Here, we can see that being in the mid-southwest around New Mexico and Oklahoma are not great places per capita for police shootings. Alaska with its size seems a possible outlier here.
 
 + In the plot shown below, we can see that the distribution of gender, race and signs of mental illness are unbalanced.
 <p align="center">
