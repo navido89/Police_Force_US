@@ -128,5 +128,6 @@ Clearly, we could see that our performing models were overfitting. We took the b
 + min_samples_split: [2,5,10],
 + min_samples_leaf: [1,2,4],
 + n_estimators: [int(x) for x in np.linspace(start = 200, stop = 2000, num =10)]
-Our model improved from 0.724 to 0.772. Next we implement our model to the test set and we get an accuracy score of 0.771. 0.771 is the percentage of correctly predicted labels. 
+
+Our model improved from 0.724 to 0.772. Next we implement our model to the test set and we get an accuracy score of 0.771, which is the percentage of correctly predicted labels. 
 
