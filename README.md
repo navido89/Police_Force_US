@@ -67,6 +67,9 @@ The purpose of this project is to examine the factors that play into the horribl
 + Cleaned the data by using pandas. 
 + As far as feature engineering, 9 out of the total 17 variables type had to be transformed into different types. 
 + To read more about the data cleanining process <a href="https://towardsdatascience.com/an-examination-of-fatal-force-by-police-in-the-us-db897d97085c" target="_blank">click here</a> and read section "Materials and Methods (Data Cleaning)".
+
+## Project Results:
+[(Back to top)](#table-of-contents)
 + With race being a big question going into this project, seeing the number of victims based on race seemed to be perfectly logical. Here we saw that within all of the dataset White was killed the most and then black was almost half of the white percentage.
 <p align="center">
 <img src="images/big_observation.png" style>
@@ -103,5 +106,3 @@ Surprisingly, our new top three results Alaska, New Mexico, and Oklahoma are rel
 <img src="images/box_plot.png" style>
 </p>
 
-## Project Results:
-[(Back to top)](#table-of-contents)
