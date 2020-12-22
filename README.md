@@ -98,7 +98,7 @@ Surprisingly, our new top three results Alaska, New Mexico, and Oklahoma are rel
 <img src="images/Body_cam.png" style>
 </p>
 
-+ Below we can see a box play that represents the age distribution by race. The age distribution by race has a strong representation across all between the ages of 22 and 47, with a mean of 37. Please note, we replaced the 262 null values in the “age” column with the mean values based on race and gender.
++ Below we can see a box plot that represents the age distribution by race. The age distribution by race has a strong representation across all between the ages of 22 and 47, with a mean of 37. Please note, we replaced the 262 null values in the “age” column with the mean values based on race and gender.
 <p align="center">
 <img src="images/box_plot.png" style>
 </p>
