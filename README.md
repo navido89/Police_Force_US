@@ -95,3 +95,7 @@ Surprisingly, our new top three results Alaska, New Mexico, and Oklahoma are rel
 <p align="center">
 <img src="images/mental_illness.png" style>
 </p>
++ In the next plot we pay our attention to the feature "body cam footage" and check how that might determine whether an individual was shot. Below we can see that manny officers did have the camera off making this data skewed and hard to have as a determining variable.
+<p align="center">
+<img src="images/Body_cam.png" style>
+</p>
