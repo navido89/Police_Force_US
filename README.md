@@ -1,8 +1,29 @@
 <img src="images/police.jpg">
 
-# Police_Force_US
+<!-- Add buttons here -->
+![Follow me at Twitter](https://img.shields.io/twitter/follow/NMashinchi?style=social)
+![GitHub last commit](https://img.shields.io/github/last-commit/navido89/Time-Series-Analysis-ARIMA-Model-Covid19-Predictions)
 
-+ The goal of this project was to examine the factors that play into the horrible event of a fatal shooting by the police in the US.
+# Police_Force_US
+**Project Status: Completed**
+<br>
+<a href="https://nbviewer.jupyter.org/github/navido89/Police_Force_US/blob/main/Police%20Force%20Project.ipynb" target="_blank">Jupyter Notebook Viewer</a>
+<br>
+<a href="https://towardsdatascience.com/an-examination-of-fatal-force-by-police-in-the-us-db897d97085c" target="_blank">Read Article</a>
+
+## Table of contents
+- [Project Objective](#project-objective)
+- [Methods Used](#methods-used)
+- [Technologies](#technologies)
+- [Project Description](#project-description)
+- [Project Results](#project-results)
+- [Installation](#installation)
+
+## Project Objective
+[(Back to top)](#table-of-contents)
+<br>
+The purpose of this project is to examine the factors that play into the horrible event of a fatal shooting by the police in the US.
+
 
 + A dataset from the Washington Post was used, which had over 5700 data points. Cleaned the data by using pandas. As far as feature engineering, 9 out of the total 17 variables type had to be transformed into different types.
 
