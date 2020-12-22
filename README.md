@@ -22,7 +22,7 @@
 ## Project Objective
 [(Back to top)](#table-of-contents)
 <br>
-The purpose of this project is to examine the factors that play into the horrible event of a fatal shooting by the police in the US.
+The purpose of this project is to examine the factors that play into the horrible event of a fatal shooting by the police in the US. Which ones carry more weight that lead to fatal shootings and are perhaps predictive in nature? Are they race? State location? Mental Illness? Based on our findings from the dataset of the available variables, we are looking to predict the deceased’s race or mental illness status.
 
 
 + A dataset from the Washington Post was used, which had over 5700 data points. Cleaned the data by using pandas. As far as feature engineering, 9 out of the total 17 variables type had to be transformed into different types.
