@@ -83,7 +83,7 @@ We can see that the majority of victims that are Hispanic have been shot by the 
 
 + Next, we wanted to see if shootings might have some kind of relation based on state. 
 <p align="center">
-<img src="images/shooting_by_year.png" style>
+<img src="images/shooting_by_state.png" style>
 </p>
 We can see that a large majority of the victims were shot in California, Texas, and Florida, which makes sense as they are the top three most populated states. Whereas, in some of the smaller states, it shows there are fewer victims. Therefore, we decided to calculate the per capita number of victims by dividing the fatal shooting count per state by the state population size and then multiply that by 100,000.
 + In relation to predicting the status of mental illness, I worked with sklearn. Implemented a Logistic Regression, SVC, SGD, Decision Tree and Random Forest. Used RandomizedSearchCV to fine tune the final model (Random Forest) and improved the accuracy score by 7%.
