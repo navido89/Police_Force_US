@@ -144,4 +144,4 @@ Please <a href="https://towardsdatascience.com/an-examination-of-fatal-force-by-
 [(Back to top)](#table-of-contents)
 + Clone this repo <a href="https://docs.github.com/en/free-pro-team@latest/github/creating-cloning-and-archiving-repositories/cloning-a-repository" target="_blank">(for help see this tutorial).</a>
 + Raw data, data processing/transformation script is being kept in this repo. <a href="https://github.com/navido89/Police_Force_US/blob/main/Police%20Force%20Project.ipynb" target="_blank">Click here for notebook.</a>
-+ Note if GitHub doesn't load the notebook please refer to <a href="https://nbviewer.jupyter.org/github/navido89/Police_Force_US/blob/main/Police%20Force%20Project.ipynb" target="_blank">Jupyter Notebook Viewer.</a>
++ **Note**: If GitHub doesn't load the notebook please refer to <a href="https://nbviewer.jupyter.org/github/navido89/Police_Force_US/blob/main/Police%20Force%20Project.ipynb" target="_blank">Jupyter Notebook Viewer.</a>
