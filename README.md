@@ -63,7 +63,10 @@ The purpose of this project is to examine the factors that play into the horribl
 ## Project Description:
 [(Back to top)](#table-of-contents)
 
-+ A dataset from the Washington Post was used, which had over 5700 data points. Cleaned the data by using pandas. As far as feature engineering, 9 out of the total 17 variables type had to be transformed into different types.
++ A dataset from the Washington Post was used, which had over 5700 data points. 
++ Cleaned the data by using pandas. 
++ As far as feature engineering, 9 out of the total 17 variables type had to be transformed into different types. 
++ To read more about the data cleanining process <a href="https://towardsdatascience.com/an-examination-of-fatal-force-by-police-in-the-us-db897d97085c" target="_blank">click here</a> and read section "Materials and Methods (Data Cleaning)".
 
 + In relation to predicting the status of mental illness, I worked with sklearn. Implemented a Logistic Regression, SVC, SGD, Decision Tree and Random Forest. Used RandomizedSearchCV to fine tune the final model (Random Forest) and improved the accuracy score by 7%.
 
