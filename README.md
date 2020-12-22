@@ -91,3 +91,7 @@ We can see that a large majority of the victims were shot in California, Texas, 
 </p>
 Surprisingly, our new top three results Alaska, New Mexico, and Oklahoma are relatively smaller states. It shows that there are more shootings on a relative basis in these states compared to the larger states, such as California. We create a heatmap that shows the level of concentration based on the shootings per 100,000 rate as seen in the previous bar graph. Here, we can see that being in the mid-southwest around New Mexico and Oklahoma are not great places per capita for police shootings. Alaska with its size still seems a possible outlier here.
 
++ In the plot shown below, we can see that the distribution of gender, race and signs of mental illness are unbalanced.
+<p align="center">
+<img src="images/mental_illness.png" style>
+</p>
