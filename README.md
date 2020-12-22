@@ -4,7 +4,7 @@
 ![Follow me at Twitter](https://img.shields.io/twitter/follow/NMashinchi?style=social)
 ![GitHub last commit](https://img.shields.io/github/last-commit/navido89/Time-Series-Analysis-ARIMA-Model-Covid19-Predictions)
 
-# Police_Force_US
+# An Examination of Fatal Force by Police in the US
 **Project Status: Completed**
 <br>
 <a href="https://nbviewer.jupyter.org/github/navido89/Police_Force_US/blob/main/Police%20Force%20Project.ipynb" target="_blank">Jupyter Notebook Viewer</a>
@@ -66,7 +66,7 @@ The purpose of this project is to examine the factors that play into the horribl
 + A dataset from the Washington Post was used, which had over 5700 data points. 
 + Cleaned the data by using pandas. 
 + As far as feature engineering, 9 out of the total 17 variables type had to be transformed into different types. 
-+ To read more about the data cleanining process <a href="https://towardsdatascience.com/an-examination-of-fatal-force-by-police-in-the-us-db897d97085c#9048" target="_blank">click here.</a>
++ To read more about the data cleaning process <a href="https://towardsdatascience.com/an-examination-of-fatal-force-by-police-in-the-us-db897d97085c#9048" target="_blank">click here.</a>
 
 ## Project Results:
 [(Back to top)](#table-of-contents)
