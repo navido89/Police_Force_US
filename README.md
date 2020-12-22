@@ -66,7 +66,7 @@ The purpose of this project is to examine the factors that play into the horribl
 + A dataset from the Washington Post was used, which had over 5700 data points. 
 + Cleaned the data by using pandas. 
 + As far as feature engineering, 9 out of the total 17 variables type had to be transformed into different types. 
-+ To read more about the data cleanining process <a href="https://towardsdatascience.com/an-examination-of-fatal-force-by-police-in-the-us-db897d97085c" target="_blank">click here</a> and read section "Materials and Methods (Data Cleaning)".
++ To read more about the data cleanining process <a href="https://towardsdatascience.com/an-examination-of-fatal-force-by-police-in-the-us-db897d97085c#9048" target="_blank">click here.</a>
 
 ## Project Results:
 [(Back to top)](#table-of-contents)
@@ -131,5 +131,5 @@ Clearly, we could see that our performing models were overfitting. We took the b
 
 Our model improved from 0.724 to 0.772. Next we implement our model to the test set and we get an accuracy score of 0.771, which is the percentage of correctly predicted labels. 
 
-+ In regard to predicting the race, we concluded that we would need to gather further data in order to create an acceptable model to predict the race. See for more detail <a href="https://towardsdatascience.com/an-examination-of-fatal-force-by-police-in-the-us-db897d97085c#86b5" target="_blank">here</a> 
++ In regard to predicting the race, we concluded that we would need to gather further data in order to create an acceptable model to predict the race. See for more detail <a href="https://towardsdatascience.com/an-examination-of-fatal-force-by-police-in-the-us-db897d97085c#86b5" target="_blank">here.</a> 
 + Click <a href="https://towardsdatascience.com/an-examination-of-fatal-force-by-police-in-the-us-db897d97085c#eba2" target="_blank">here</a> to read final conclusion. 
