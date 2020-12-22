@@ -138,7 +138,7 @@ Our model improved from 0.724 to 0.772. Next we implement our model to the test 
 In regard to predicting the race, we concluded that we would need to gather further data in order to create an acceptable model to predict the race. For more details <a href="https://towardsdatascience.com/an-examination-of-fatal-force-by-police-in-the-us-db897d97085c#86b5" target="_blank"> click here.</a>
 
 
-<a href="https://towardsdatascience.com/an-examination-of-fatal-force-by-police-in-the-us-db897d97085c#eba2" target="_blank"> Click here</a> to read final conclusion. 
+Please <a href="https://towardsdatascience.com/an-examination-of-fatal-force-by-police-in-the-us-db897d97085c#eba2" target="_blank"> click here</a> for final conclusion.
 
 ## Installation:
 [(Back to top)](#table-of-contents)
