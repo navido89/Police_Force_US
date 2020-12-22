@@ -70,6 +70,7 @@ The purpose of this project is to examine the factors that play into the horribl
 
 ## Project Results:
 [(Back to top)](#table-of-contents)
+<br>
 With race being a big question going into this project, seeing the number of victims based on race seemed to be perfectly logical. Here we see that within all of the dataset White was killed the most and then black was almost half of the white percentage.
 <p align="center">
 <img src="images/big_observation.png" style>
@@ -135,7 +136,7 @@ Clearly, we could see that our performing models were overfitting. We took the b
 Our model improved from 0.724 to 0.772. Next we implement our model to the test set and we get an accuracy score of 0.771, which is the percentage of correctly predicted labels. 
 
 In regard to predicting the race, we concluded that we would need to gather further data in order to create an acceptable model to predict the race. For more details <a href="https://towardsdatascience.com/an-examination-of-fatal-force-by-police-in-the-us-db897d97085c#86b5" target="_blank"> click here.</a>
-<br>
+<br />
 <a href="https://towardsdatascience.com/an-examination-of-fatal-force-by-police-in-the-us-db897d97085c#eba2" target="_blank"> Click here</a> to read final conclusion. 
 
 ## Installation:
