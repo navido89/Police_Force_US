@@ -63,7 +63,7 @@ The purpose of this project is to examine the factors that play into the horribl
 ## Project Description:
 [(Back to top)](#table-of-contents)
 
-+ A dataset from the Washington Post was used, which had over 5700 data points. 
++ A dataset from the Washington Post was used, which had over 5700 data points and were collected between 2015-2020. 
 + Cleaned the data by using pandas. 
 + As far as feature engineering, 9 out of the total 17 variables type had to be transformed into different types. 
 + To read more about the data cleaning process <a href="https://towardsdatascience.com/an-examination-of-fatal-force-by-police-in-the-us-db897d97085c#9048" target="_blank">click here.</a>
@@ -75,13 +75,13 @@ The purpose of this project is to examine the factors that play into the horribl
 <img src="images/big_observation.png" style>
 </p>
 
-+ Following now in the same line of questioning, we take a look at the physical location by state with respect to the races that were shot in those states:
++ Following now in the same line of questioning, we took a look at the physical location by state with respect to the races that were shot in those states:
 <p align="center">
 <img src="images/shooting_race_location.png" style>
-</p>We can see that the majority of victims that are Hispanic have been shot by the police in the following States: Texas, New Mexico and California. This becomes evident when we pay attention to the purple dots. When looking at the dots with the pink colors. We can see that most of those are more centrally located in the country. We could possibly conclude that most of the Native Americans are in most danger in the central part of the country. As we can see with no surprise now, the majority of the victims are white. The green dots are spread all over the country. What is really interesting to point out is the majority of the yellow dots are on the East Coast. We see most of the dots on the right side of the country rather than the left side. This could be an indicator that black people are more in danger on the east coast when they interact with the police. We can definitely see fewer yellow markers on the west coast.
-
-
-+ Next, we wanted to see if shootings might have some kind of relation based on state. 
+</p>
+We saw that the majority of victims that are Hispanic have been shot by the police in the following States: Texas, New Mexico and California. This becomes evident when we pay attention to the purple dots. When looking at the dots with the pink colors. We can see that most of those are more centrally located in the country. We could possibly conclude that most of the Native Americans are in most danger in the central part of the country. As we can see with no surprise now, the majority of the victims are white. The green dots are spread all over the country. What is really interesting to point out is the majority of the yellow dots are on the East Coast. We see most of the dots on the right side of the country rather than the left side. This could be an indicator that black people are more in danger on the east coast when they interact with the police. We can definitely see fewer yellow markers on the west coast. 
+<br>
+- Next, we wanted to see if shootings might have some kind of relation based on state.
 <p align="center">
 <img src="images/shooting_by_state.png" style>
 </p>
