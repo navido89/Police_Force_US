@@ -89,5 +89,6 @@ We can see that a large majority of the victims were shot in California, Texas, 
 <p align="center">
 <img src="images/shooting_per_100k.png" style>
 </p>
-+ In relation to predicting the status of mental illness, I worked with sklearn. Implemented a Logistic Regression, SVC, SGD, Decision Tree and Random Forest. Used RandomizedSearchCV to fine tune the final model (Random Forest) and improved the accuracy score by 7%.
+Surprisingly, our new top three results Alaska, New Mexico, and Oklahoma are relatively smaller states. It shows that there are more shootings on a relative basis in these states compared to the larger states, such as California.
+
 
