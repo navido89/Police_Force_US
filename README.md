@@ -37,6 +37,7 @@ The purpose of this project is to examine the factors that play into the horribl
 
 ## Technologies:
 [(Back to top)](#table-of-contents)
++ Python
 + Pandas 
 + NumPy 
 + re
